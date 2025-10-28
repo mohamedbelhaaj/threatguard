@@ -41,3 +41,15 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+node_modules
+dist
+.git
+.gitignore
+*.md
+.angular
+.vscode
+coverage
+*.log
+npm-debug.log*
+.env
+.env.local
